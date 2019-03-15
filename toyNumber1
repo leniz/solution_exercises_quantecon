@@ -1,0 +1,2 @@
+my_dataframe = pd.DataFrame({'cows':[1,2], 'cookies':[20,30]}, index = ['year1','year2'])
+my_dataframe
